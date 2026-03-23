@@ -10,6 +10,7 @@ de Programação Orientada a Objetos.
 
 ## Estrutura do Repositório
 
+```
 Programação I
 │
 ├── Aula 001 – Introdução a Classes
@@ -36,3 +37,4 @@ Programação I
 ├── Aula 004 – Relação entre Classes
 │   └── Exercício 001
 │       └── Relação entre Conta, Correntista e Movimento
+```
