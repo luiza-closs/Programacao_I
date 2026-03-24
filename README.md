@@ -37,4 +37,7 @@ Programação I
 ├── Aula 004 – Relação entre Classes
 │   └── Exercício 001
 │       └── Relação entre Conta, Correntista e Movimento
+├── Aula 005 – Herança
+│   └── Exercício 001
+│       └── Herança entre Pessoa e Aluno
 ```
