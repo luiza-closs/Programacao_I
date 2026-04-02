@@ -40,4 +40,12 @@ Programação I
 ├── Aula 005 – Herança
 │   └── Exercício 001
 │       └── Herança entre Pessoa e Aluno
+├── Aula 006 - Exercícios
+│   ├── Exercício 001
+│   │   └── Projeto empresa. Criar as classes: Funcionario, Programador
+│   │       e Linguagem. Cada programador é um funcionario e tem até 3
+│   │       linguagens favoritas,elencadas por ranking e tempo de
+│   │       experiencia.
+│   └── Exercício 002
+│       └── Introdução a JFrame
 ```
